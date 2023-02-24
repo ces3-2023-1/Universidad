@@ -6,4 +6,7 @@ public class Estudiante {
         System.out.println("Hola Poli!!!!!");
     }
 
+    public static int sumar(int a, int b){
+        return a + b;
+    }
 }
